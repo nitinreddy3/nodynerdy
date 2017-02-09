@@ -1,2 +1,1 @@
-# nodynerdy
-Learn nodejs in a freaking easy way....
+## Learn NodeJS the easy way
