@@ -1,0 +1,24 @@
+{
+  "name": "nodynerdy",
+  "version": "1.0.0",
+  "description": "This is introduction to nodejs learning in a nerdy way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinreddy3/nodynerdy.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "js"
+  ],
+  "author": "nitin reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinreddy3/nodynerdy/issues"
+  },
+  "homepage": "https://github.com/nitinreddy3/nodynerdy#readme"
+}
