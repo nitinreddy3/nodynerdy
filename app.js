@@ -1,10 +1,5 @@
-/**
- * know directory name
- */
+var stuff = require('./examples/stuff');
 
-// console.log(__dirname);
-// console.log(__filename);
-
-var counter = require('./examples/count');
-
-console.log(counter([1, 2, 3, 4]));
+console.log(stuff.counter([1, 2, 3, 4]));
+console.log(stuff.adder(3, 5));
+console.log(stuff.pi);
